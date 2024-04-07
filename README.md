@@ -11,3 +11,4 @@ Information on adding this extension to your browser can be found [here](https:/
 ## Contributors
 
 [@mvilla9](https://github.com/mvilla9)
+[@antv11a](https://github.com/antv11a)
