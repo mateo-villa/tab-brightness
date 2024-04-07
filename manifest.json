@@ -5,5 +5,14 @@
     "version": "0.0.1",
     "action": {
       "default_popup": "popup/popup.html"
+    },
+    "permissions": ["activeTab", "scripting"],
+    "commands": {
+      "_execute_action":{
+      "suggested_key": {
+        "default": "Ctrl+Q",
+        "description": "Keyboard shortcut for slider"
+        }
+      }
     }
   }
